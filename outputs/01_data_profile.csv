@@ -1,0 +1,15 @@
+Column,Data_Type,Missing_Values,Missing_%,Unique_Values
+County,str,0,0.0,1
+City,str,0,0.0,35
+State,str,0,0.0,15
+Postal Code,int64,0,0.0,25141
+Model Year,int64,0,0.0,7
+Make,str,0,0.0,8
+Model,str,0,0.0,8
+Electric Vehicle Type,str,0,0.0,2
+Clean Alternative Fuel Vehicle (CAFV) Eligibility,str,0,0.0,2
+Electric Range,int64,0,0.0,440
+Base MSRP,int64,0,0.0,25417
+DOL Vehicle ID,int64,0,0.0,25533
+Vehicle Location,str,0,0.0,35
+Electric Utility,str,0,0.0,6
