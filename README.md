@@ -470,29 +470,9 @@ india-ev-market-analysis/
 ├── sql/
 │   └── EV_PROJECT.sql
 │
-├── outputs/
-│   ├── charts/
-│   │   ├── ev_records_by_year.png
-│   │   ├── state_analysis.png
-│   │   ├── city_analysis.png
-│   │   ├── manufacturer_analysis.png
-│   │   ├── ev_type_analysis.png
-│   │   ├── cafv_analysis.png
-│   │   ├── range_analysis.png
-│   │   └── price_analysis.png
-│   │
-│   └── tables/
-│       ├── data_profile.csv
-│       ├── numeric_summary.csv
-│       └── key_metrics.csv
-│
 ├── report/
 │   └── India_EV_Market_Analysis_Report.pdf
-│
-├── docs/
-│   └── EV_Dataset.pdf
-│
-└── .gitignore
+
 ```
 
 ---
